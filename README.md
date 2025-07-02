@@ -48,5 +48,6 @@ TCP SYN/SYN-ACK handshake attempts to external IPs
 DHCP Discovery and Offer messages for IP address assignment
 
 **Usage**
+
 Refer to the report.md file for a full breakdown of packet-level insights, timestamps, and communication patterns. This includes protocol hierarchies, port usage statistics, and communication flows between devices.
 
